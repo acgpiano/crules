@@ -13,3 +13,4 @@ payload:
   - "+.irealb.com"
   - "+.suno.com"
   - "+.suno.ai"
+  - "+.adjust.com"
