@@ -1,0 +1,13 @@
+payload:
+  - "amazonaws.com"
+  - "aws.dev"
+  - "awsstatic.com"
+  - "api.aws"
+  - "a2z.com"
+  - "amazon.com"
+  - "+.amazonaws.com"
+  - "+.aws.dev"
+  - "+.awsstatic.com"
+  - "+.api.aws"
+  - "+.a2z.com"
+  - "+.amazon.com"
