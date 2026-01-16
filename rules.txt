@@ -7,6 +7,7 @@ payload:
   - "suno.com"
   - "suno.ai"
   - "cjy.me"
+  - "ufc.com"
   - "+.hostevaluate.com"
   - "+.hacker101.com"
   - "+.hackerone.com"
@@ -16,3 +17,4 @@ payload:
   - "+.suno.ai"
   - "+.adjust.com"
   - "+.cjy.me"
+  - "+.ufc.com"
