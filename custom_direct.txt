@@ -3,3 +3,4 @@ payload:
   - "+.schwab.com"
   - "sequoia.apple.com"
   - "seed-sequoia.siri.apple.com"
+  - "+.crashlytics.com"
