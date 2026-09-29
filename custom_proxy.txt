@@ -9,6 +9,7 @@ payload:
   - "cjy.me"
   - "ufc.com"
   - "squarespace.com"
+  - "freemdict.com"
   - "+.hostevaluate.com"
   - "+.hacker101.com"
   - "+.hackerone.com"
@@ -20,3 +21,4 @@ payload:
   - "+.cjy.me"
   - "+.ufc.com"
   - "+.squarespace.com"
+  - "+.freemdict.com"
