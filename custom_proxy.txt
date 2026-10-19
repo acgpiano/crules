@@ -11,6 +11,7 @@ payload:
   - "squarespace.com"
   - "freemdict.com"
   - "bandbbs.cn"
+  - "hacksnation.com"
   - "+.hostevaluate.com"
   - "+.hacker101.com"
   - "+.hackerone.com"
@@ -24,3 +25,4 @@ payload:
   - "+.squarespace.com"
   - "+.freemdict.com"
   - "+.bandbbs.cn"
+  - "+.hacksnation.com"
