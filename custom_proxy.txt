@@ -12,6 +12,7 @@ payload:
   - "freemdict.com"
   - "bandbbs.cn"
   - "hacksnation.com"
+  - "real-debrid.com"
   - "+.hostevaluate.com"
   - "+.hacker101.com"
   - "+.hackerone.com"
@@ -26,3 +27,4 @@ payload:
   - "+.freemdict.com"
   - "+.bandbbs.cn"
   - "+.hacksnation.com"
+  - "+real-debrid.com"
